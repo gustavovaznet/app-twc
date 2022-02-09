@@ -1,2 +1,2 @@
-# app-twc
-Social Media Clone
+# Social Media
+This is a simple clone of Twitter's main functionalities.
